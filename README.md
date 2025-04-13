@@ -30,12 +30,12 @@ This project replicates key features of Aksam.com.tr for desktop users, deliveri
 
 ## 🛠️ Technologies
 
-| Technology           | Purpose                     |
-|----------------------|-----------------------------|
-| **Nuxt.js (Vue.js)** | Framework for rendering     |
-| **SCSS**             | Modular and scalable styling|
-| **Bootstrap Grid**   | Layout structure            |
-| **Swiper**           | Dynamic slider component    |
+| Technology           | Purpose                                                 |
+| -------------------- | ------------------------------------------------------- |
+| **Nuxt.js (Vue.js)** | Framework for rendering                                 |
+| **SCSS**             | Modular and scalable styling                            |
+| **Bootstrap Grid**   | Layout structure                                        |
+| **Swiper**           | Dynamic slider component                                |
 | **API**              | [anasayfa.json](https://turkmedya.com.tr/anasayfa.json) |
 
 ---
@@ -45,23 +45,27 @@ This project replicates key features of Aksam.com.tr for desktop users, deliveri
 Get the project up and running locally in just a few steps:
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/zackha/Aksam-News-Website.git
    ```
 
 2. **Navigate to the project directory**:
+
    ```bash
    cd Aksam-News-Website
    ```
 
 3. **Install dependencies**:
+
    ```bash
-   npm install
+   pnpm install
    ```
 
 4. **Start the development server**:
+
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
    📍 The app will be available at `http://localhost:3000`.
