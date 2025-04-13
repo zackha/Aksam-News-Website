@@ -46,12 +46,12 @@ Get the project up and running locally in just a few steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/zackha/turkmedia-vue-case.git
+   git clone https://github.com/zackha/Aksam-News-Website.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd turkmedia-vue-case
+   cd Aksam-News-Website
    ```
 
 3. **Install dependencies**:
